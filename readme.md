@@ -13,6 +13,39 @@ This project looks at store sales data to help businesses make smart choices. It
 * **Best and Worst Products:** Find out which items sell fast and which ones sell slowly.
 * **Customer Shopping Habits:** See how often customers shop, how much they buy at one time, and how they pay.
 
+## Technology Used
+
+| Technology / Tool | Type | Description |
+| :--- | :--- | :--- |
+| **Python** | Programming Language | The core language that powers the entire data pipeline and handles code execution. |
+| **Jupyter Notebook** | Interactive Environment | An open-source web application used for creating and sharing documents that contain live code, equations, visualizations, and narrative text. |
+| **Google Colab** | Cloud Notebook Environment | A hosted Jupyter notebook service provided by Google that runs entirely in the cloud with free access to computing resources. |
+| **Pandas** | Python Library | Used for loading, cleaning, and manipulating tabular data (similar to Excel spreadsheets). |
+| **NumPy** | Python Library | Handles large arrays of numbers and performs fast mathematical calculations behind the scenes. |
+| **Matplotlib** | Visualization Libraries | Used to generate charts, graphs, and visual reports to easily spot business trends. |
+| **CSV** | File Format | The raw data format used to store tabular text data before analysis. |
+
+
+## Project Links
+
+| Type | Link |
+| :--- | :--- |
+| **Colab Notebook Link** | Pending |
+| **DataSet Link** | Pending |
+
+## References 
+
+| Technology | Reference |
+| :--- | :--- |
+| **Python** | [Python Official Documentation](https://docs.python.org/) |
+| **Jupyter Notebook** | [Jupyter Documentation](https://docs.jupyter.org/) |
+| **Google Colab** | [Google Colab Portal](https://developers.google.com/colab) |
+| **Pandas** | [Pandas PyPI / Documentation](https://pypi.org/project/pandas/) |
+| **NumPy** | [NumPy Documentation](https://numpy.org/doc/stable/) |
+| **Matplotlib** | [Matplotlib Documentation](https://matplotlib.org/stable/index.html) |
+| **Seaborn** | [Seaborn Documentation](https://seaborn.pydata.org/) |
+| **CSV** | [Python CSV Library Documentation](https://docs.python.org/3/library/csv.html) |
+
 ## Project Members
 
 | Name | ID |
